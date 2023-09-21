@@ -1,0 +1,1 @@
+/*cambia ahora el valor de una de las dos variables e imprime por consola*/
