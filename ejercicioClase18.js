@@ -1,4 +1,4 @@
-const countVowels = (word) => {
+export const countVowels = (word) => {
   word = word.toLowerCase();
   let vowelCount = 0;
   for (let i = 0; i < word.length; i++) {
@@ -15,4 +15,3 @@ const countVowels = (word) => {
   }
   return vowelCount;
 };
-console.log(countVowels("Fernando"));
